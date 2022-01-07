@@ -1,0 +1,7 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif;
+background-image: url('https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/images/549310main_pia14093-43_full.jpg');
+background-size: cover;
+background-attachment: fixed; }
